@@ -1,0 +1,13 @@
+productId^|^productName^|^statusCode^|^scenario
+001^|^Apple iPhone 12^|^200^|^Order placed
+002^|^Samsung Galaxy S21^|^201^|^Order placed
+003^|^OnePlus 9 Pro^|^202^|^Order placed
+004^|^Apple iPhone 11^|^203^|^Order placed
+005^|^Samsung Galaxy S20^|^404^|^Item not found
+006^|^OnePlus 8 Pro^|^500^|^Server error
+007^|^Apple iPhone XR^|^200^|^Order placed
+008^|^Samsung Galaxy S10^|^201^|^Order placed
+009^|^OnePlus 7 Pro^|^202^|^Order placed
+010^|^Apple iPhone SE^|^203^|^Order placed
+011^|^Samsung Galaxy S9^|^404^|^Item not found
+012^|^OnePlus 6 Pro^|^500^|^Server error

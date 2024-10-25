@@ -1,0 +1,11 @@
+id^|^name^|^price^|^statusCode^|^scenario
+1^|^Product A^|^10.99^|^200^|^Scenario 1
+2^|^Product B^|^20.99^|^200^|^Scenario 2
+3^|^Product C^|^30.99^|^200^|^Scenario 3
+4^|^Product D^|^40.99^|^200^|^Scenario 4
+5^|^Product E^|^50.99^|^200^|^Scenario 5
+6^|^Product F^|^60.99^|^200^|^Scenario 6
+7^|^Product G^|^70.99^|^200^|^Scenario 7
+8^|^Product H^|^80.99^|^200^|^Scenario 8
+9^|^Product I^|^90.99^|^200^|^Scenario 9
+10^|^Product J^|^100.99^|^200^|^Scenario 10

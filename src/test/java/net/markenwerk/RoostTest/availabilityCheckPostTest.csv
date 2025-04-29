@@ -1,0 +1,11 @@
+RequestBody^|^statusCode
+{"param1": "value1", "param2": "value2", "param3": "value3"}^|^200
+{"user": "john", "password": "password"}^|^401
+{"username": "sam", "password": "12345"}^|^200
+{"username": "kelly", "account": "checking", "balance": "1000"}^|^404
+{"operation": "deposit", "amount": "100"}^|^500
+{"operation": "withdraw", "amount": "50"}^|^200
+{"query": "SELECT * FROM users"}^|^403
+{"command": "DELETE FROM users WHERE username='john'"}^|^503
+{"order": "UPDATE users SET password='newpassword' WHERE username='sam'"}^|^200
+{"request": "INSERT INTO users VALUES ('kelly', 'newpassword')"}^|^400
